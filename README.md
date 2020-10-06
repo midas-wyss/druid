@@ -7,7 +7,7 @@ DRUID, or DRUg Indication Discoverer, is an algorithm that identifies drug profi
 Install from GitHub using `devtools` as:
 
 ```
-devtools::install_github("diogocamacho/druid")
+devtools::install_github("midas-wyss/druid")
 ```
 
 ## Running
